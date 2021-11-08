@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\ilyat\Downloads\5_lab-main\5_lab-main\5_лаб\main.c(32,16): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\ilyat\Downloads\5_lab-main\5_lab-main\5_лаб\main.c(35,10): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  5_лаб.vcxproj -> C:\Users\ilyat\Downloads\5_lab-main\5_lab-main\x64\Debug\5_лаб.exe
